@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/royalottoc.github.io/theeco-react/static/css/main.38c227cc.chunk.css",
+    "main.js": "/royalottoc.github.io/theeco-react/static/js/main.2983f472.chunk.js",
+    "main.js.map": "/royalottoc.github.io/theeco-react/static/js/main.2983f472.chunk.js.map",
+    "runtime-main.js": "/royalottoc.github.io/theeco-react/static/js/runtime-main.7eba9b1a.js",
+    "runtime-main.js.map": "/royalottoc.github.io/theeco-react/static/js/runtime-main.7eba9b1a.js.map",
+    "static/css/2.303691e4.chunk.css": "/royalottoc.github.io/theeco-react/static/css/2.303691e4.chunk.css",
+    "static/js/2.1333609d.chunk.js": "/royalottoc.github.io/theeco-react/static/js/2.1333609d.chunk.js",
+    "static/js/2.1333609d.chunk.js.map": "/royalottoc.github.io/theeco-react/static/js/2.1333609d.chunk.js.map",
+    "index.html": "/royalottoc.github.io/theeco-react/index.html",
+    "precache-manifest.277af1b818762c222b814496148c607b.js": "/royalottoc.github.io/theeco-react/precache-manifest.277af1b818762c222b814496148c607b.js",
+    "service-worker.js": "/royalottoc.github.io/theeco-react/service-worker.js",
+    "static/css/2.303691e4.chunk.css.map": "/royalottoc.github.io/theeco-react/static/css/2.303691e4.chunk.css.map",
+    "static/css/main.38c227cc.chunk.css.map": "/royalottoc.github.io/theeco-react/static/css/main.38c227cc.chunk.css.map",
+    "static/js/2.1333609d.chunk.js.LICENSE.txt": "/royalottoc.github.io/theeco-react/static/js/2.1333609d.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/royalottoc.github.io/theeco-react/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7eba9b1a.js",
+    "static/css/2.303691e4.chunk.css",
+    "static/js/2.1333609d.chunk.js",
+    "static/css/main.38c227cc.chunk.css",
+    "static/js/main.2983f472.chunk.js"
+  ]
+}
