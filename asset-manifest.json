@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/royalottoc.github.io/theeco-react/static/css/main.38c227cc.chunk.css",
-    "main.js": "/royalottoc.github.io/theeco-react/static/js/main.2983f472.chunk.js",
-    "main.js.map": "/royalottoc.github.io/theeco-react/static/js/main.2983f472.chunk.js.map",
-    "runtime-main.js": "/royalottoc.github.io/theeco-react/static/js/runtime-main.7eba9b1a.js",
-    "runtime-main.js.map": "/royalottoc.github.io/theeco-react/static/js/runtime-main.7eba9b1a.js.map",
-    "static/css/2.303691e4.chunk.css": "/royalottoc.github.io/theeco-react/static/css/2.303691e4.chunk.css",
-    "static/js/2.1333609d.chunk.js": "/royalottoc.github.io/theeco-react/static/js/2.1333609d.chunk.js",
-    "static/js/2.1333609d.chunk.js.map": "/royalottoc.github.io/theeco-react/static/js/2.1333609d.chunk.js.map",
-    "index.html": "/royalottoc.github.io/theeco-react/index.html",
-    "precache-manifest.277af1b818762c222b814496148c607b.js": "/royalottoc.github.io/theeco-react/precache-manifest.277af1b818762c222b814496148c607b.js",
-    "service-worker.js": "/royalottoc.github.io/theeco-react/service-worker.js",
-    "static/css/2.303691e4.chunk.css.map": "/royalottoc.github.io/theeco-react/static/css/2.303691e4.chunk.css.map",
-    "static/css/main.38c227cc.chunk.css.map": "/royalottoc.github.io/theeco-react/static/css/main.38c227cc.chunk.css.map",
-    "static/js/2.1333609d.chunk.js.LICENSE.txt": "/royalottoc.github.io/theeco-react/static/js/2.1333609d.chunk.js.LICENSE.txt",
-    "static/media/semantic.min.css": "/royalottoc.github.io/theeco-react/static/media/outline-icons.ef60a4f6.woff"
+    "main.css": "/theeco-react/static/css/main.38c227cc.chunk.css",
+    "main.js": "/theeco-react/static/js/main.a2ca9de7.chunk.js",
+    "main.js.map": "/theeco-react/static/js/main.a2ca9de7.chunk.js.map",
+    "runtime-main.js": "/theeco-react/static/js/runtime-main.47197d18.js",
+    "runtime-main.js.map": "/theeco-react/static/js/runtime-main.47197d18.js.map",
+    "static/css/2.73440c0f.chunk.css": "/theeco-react/static/css/2.73440c0f.chunk.css",
+    "static/js/2.1ae89568.chunk.js": "/theeco-react/static/js/2.1ae89568.chunk.js",
+    "static/js/2.1ae89568.chunk.js.map": "/theeco-react/static/js/2.1ae89568.chunk.js.map",
+    "index.html": "/theeco-react/index.html",
+    "precache-manifest.5d9747b54bff00e0efcfcd42299d1e73.js": "/theeco-react/precache-manifest.5d9747b54bff00e0efcfcd42299d1e73.js",
+    "service-worker.js": "/theeco-react/service-worker.js",
+    "static/css/2.73440c0f.chunk.css.map": "/theeco-react/static/css/2.73440c0f.chunk.css.map",
+    "static/css/main.38c227cc.chunk.css.map": "/theeco-react/static/css/main.38c227cc.chunk.css.map",
+    "static/js/2.1ae89568.chunk.js.LICENSE.txt": "/theeco-react/static/js/2.1ae89568.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/theeco-react/static/media/outline-icons.ef60a4f6.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.7eba9b1a.js",
-    "static/css/2.303691e4.chunk.css",
-    "static/js/2.1333609d.chunk.js",
+    "static/js/runtime-main.47197d18.js",
+    "static/css/2.73440c0f.chunk.css",
+    "static/js/2.1ae89568.chunk.js",
     "static/css/main.38c227cc.chunk.css",
-    "static/js/main.2983f472.chunk.js"
+    "static/js/main.a2ca9de7.chunk.js"
   ]
 }
