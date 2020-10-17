@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { connect } from 'react-redux';
 import firebase from "../../../server/firebase";
 import { setChannel } from "../../../store/actioncreator"
-
+import { Notification } from "../Notification/Notification.component";
 
 import './Channels.css';
 import { Menu, Icon, Modal, Button, Form, Segment } from 'semantic-ui-react';
@@ -55,7 +55,10 @@ const Channels = (props) => {
                     onClick={() => selectChannel(channel)}
                     active={props.channel && channel.id === props.channel.id && !props.channel.isFavourite}
                 >
-                                       
+                      <Notification user={props.user} channel={props.channel}
+                        notificationChannelId={channel.id}
+                        displayName= {"# " + channel.name} />
+                   
                 </Menu.Item>
             })
         }
@@ -116,7 +119,7 @@ const Channels = (props) => {
     return <> <Menu.Menu style={{ marginTop: '35px' }}>
         <Menu.Item style={{fontSize : '17px'}}>
             <span>
-                <Icon name="exchange" /> Uni Channels
+                <Icon name="exchange" /> Channels
             </span>
             ({channelsState.length})
         </Menu.Item>
@@ -129,7 +132,7 @@ const Channels = (props) => {
     </Menu.Menu>
         <Modal open={modalOpenState} onClose={closeModal}>
             <Modal.Header>
-                Create University Channel
+                Create Channel
             </Modal.Header>
             <Modal.Content>
                 <Form onSubmit={onSubmit}>

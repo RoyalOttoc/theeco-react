@@ -11,6 +11,7 @@ import firebase from "./server/firebase";
 import { combinedReducers } from "./store/reducer";
 import { setUser } from "./store/actioncreator"
 import "semantic-ui-css/semantic.min.css"
+import { AppLoader } from "./components/AppLoader/AppLoader.component";
 
 const store = createStore(combinedReducers);
 
@@ -31,7 +32,7 @@ const Index = (props) => {
   console.log("Debug", props.currentUser);
 
   return (<>
-    
+    <AppLoader loading={props.loading && props.location.pathname === "/"} />
     <Switch>
       <Route path="/login" component={Login} />
       <Route path="/register" component={Register} />

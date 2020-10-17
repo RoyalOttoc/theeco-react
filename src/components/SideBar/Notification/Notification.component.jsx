@@ -57,4 +57,5 @@ export const Notification = (props) => {
     }
 
     return <> {props.displayName}{calculateNotificationCount(props.notificationChannelId)} </>;
+
 }
