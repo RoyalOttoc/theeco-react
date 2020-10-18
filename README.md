@@ -1,5 +1,5 @@
 ## Deployed by gh-pages:
-https://royalottoc.github.io/theeco-react
+Go to : https://royalottoc.github.io/theeco-react
 
 
 
