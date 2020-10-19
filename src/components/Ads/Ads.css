@@ -6,6 +6,15 @@
   height: 400px;
   margin-top: 20px;
 }
+
+.banner.second {
+  background-image: url("example2.png");
+  background-size: contain;
+}
+.banner.third {
+  background-image: url("example3.png");
+  background-size: contain;
+}
 .banner {
   width: 30%;
   height: 300px;
